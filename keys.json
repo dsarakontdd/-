@@ -9,6 +9,11 @@
             "expiry_date": "2026-01-31",
             "hwid": "unused",
             "type": "MONTH"
+        },
+        "ZAK-M-MENW6WVVWO": {
+            "expiry_date": "2026-02-01",
+            "hwid": "unused",
+            "type": "MONTH"
         }
     }
 }
