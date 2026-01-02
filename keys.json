@@ -48,6 +48,10 @@
         "ZAK-PRO-2811": {
             "expiry_date": "2026-02-01",
             "hwid": "255757334368280"
+        },
+        "ZAK-GOD-5394-75": {
+            "expiry_date": "2026-02-01",
+            "hwid": "unused"
         }
     }
 }
