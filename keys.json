@@ -36,6 +36,10 @@
         "ZAK-MONTH-OKRYE4JS": {
             "expiry_date": "2026-02-01",
             "hwid": "unused"
+        },
+        "ZAK-PRO-1064": {
+            "expiry_date": "2026-02-01",
+            "hwid": "unused"
         }
     }
 }
