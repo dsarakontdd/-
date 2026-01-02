@@ -32,6 +32,10 @@
             "expiry_date": "2026-03-03",
             "hwid": "unused",
             "type": "2M"
+        },
+        "ZAK-MONTH-OKRYE4JS": {
+            "expiry_date": "2026-02-01",
+            "hwid": "unused"
         }
     }
 }
