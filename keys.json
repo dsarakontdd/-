@@ -27,6 +27,11 @@
         "ZAK-PRO-9157": {
             "expiry_date": "2026-02-01",
             "hwid": "255757334368280"
+        },
+        "ZAK-2M-XM4K7R11HJ": {
+            "expiry_date": "2026-03-03",
+            "hwid": "unused",
+            "type": "2M"
         }
     }
 }
