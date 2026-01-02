@@ -18,6 +18,11 @@
         "ZAK-2M-7867": {
             "expiry_date": "2026-03-03",
             "hwid": "unused"
+        },
+        "ZAK-1Y-7103": {
+            "expiry_date": "2027-01-02",
+            "hwid": "unused",
+            "type": "1Y"
         }
     }
 }
