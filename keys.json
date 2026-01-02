@@ -23,6 +23,10 @@
             "expiry_date": "2027-01-02",
             "hwid": "unused",
             "type": "1Y"
+        },
+        "ZAK-PRO-9157": {
+            "expiry_date": "2026-02-01",
+            "hwid": "unused"
         }
     }
 }
