@@ -60,6 +60,10 @@
         "ZAK-PRO-2752": {
             "expiry_date": "2026-02-02",
             "hwid": "unused"
+        },
+        "ZAK-PRO-3892": {
+            "expiry_date": "2026-02-02",
+            "hwid": "unused"
         }
     }
 }
